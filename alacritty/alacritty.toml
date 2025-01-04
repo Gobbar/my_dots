@@ -1,0 +1,12 @@
+[font]
+size=8.0
+
+[font.normal]
+family="Droid Sans Mono"
+style="Regular"
+
+[terminal]
+
+[terminal.shell]
+program = "/usr/bin/bash"
+args = ["-l"]

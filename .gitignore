@@ -1,0 +1,7 @@
+*
+!*/
+!.gitignore
+!alacritty/*
+!i3/*
+!i3status/*
+!xkb/*
